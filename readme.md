@@ -9,6 +9,7 @@
 + git config --global user.name "usuario de git"
     >Asigna mi usuario a mi compu.
 + git config --global user.email "correo que corresponde al usuario"
+    > Asigna el correo que corresponde al usuario a mi compu.
 + git config user.name 
     >Nos enseña el usuario actual.
 + git config user.email
